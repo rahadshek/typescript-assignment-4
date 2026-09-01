@@ -17,4 +17,4 @@ const getTrafficAction = (light:Color):string => {
 console.log(getTrafficAction("red"))
 console.log(getTrafficAction("yellow"))
 console.log(getTrafficAction("green"))
-console.log(getTrafficAction("greena"))
+// console.log(getTrafficAction("black"))
